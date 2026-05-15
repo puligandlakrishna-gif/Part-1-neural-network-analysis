@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes customer churn using neural networks, implementing a feed-forward neural network to predict whether customers will churn based on various features. The dataset contains 2000 customer records with 17 features, and the target variable is binary (churn: 1 = churned, 0 = retained).
 
-**Data Source**: [BITSoM BA - Module 5 - Dataset](https://drive.google.com/drive/folders/1Aihn49cUYMjCgeCTFBTyprjrgZO3UY6r?usp=drive_link)
+**Data Source**: (https://github.com/puligandlakrishna-gif/Data-set-part_1_neural_network_analysis.git)
 
 ## Approach
 The approach involves building and training a neural network classifier using TensorFlow/Keras framework. Key components include:
